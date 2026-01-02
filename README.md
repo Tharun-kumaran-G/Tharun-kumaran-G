@@ -21,7 +21,7 @@
 C • Python • Embedded C • SQL • Verilog
 
 ### 🔧 Tools  
-Cadence Virtuoso • LTspice • Proteus • Figma • Photoshop   
+Cadence Virtuoso • LTspice • Proteus • Figma • Photoshop • Power BI 
 
 ### 🛠 Platforms  
 VS Code • Google Colab • MATLAB • TinkerCAD • Arduino IDE
