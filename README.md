@@ -3,7 +3,7 @@
 
 ---
 
-## About Me
+## 💁‍♂️About Me
 
 - 🎓 Pursuing ECE at Saveetha Engineering College (2023–Present).
 - ⚡ Passionate about Electronics, especially VLSI and Embedded systems.
