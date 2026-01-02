@@ -59,4 +59,10 @@ Scheduled medication dispenser using ESP32, sensors and embedded logic.
 - **Higher Secondary (XII)** — 75%  
   Smt NDJA Vivekananda Vidyalaya Senior Secondary School, Chennai
 
+---
 
+### 🤝 Let's Stay Connected
+
+[![Email](https://img.shields.io/badge/Gmail-gtharunkumaran@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gtharunkumaran@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun_Kumaran_G-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tharun-kumaran-g/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Tharun-kumaran-G)
