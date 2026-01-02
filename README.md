@@ -11,7 +11,7 @@
 
 ---
 
-## Tech Stack
+## ⚙️Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,mysql,arduino,matlab,figma,photoshop&theme=dark" />
@@ -28,7 +28,7 @@ VS Code • Google Colab • MATLAB • TinkerCAD • Arduino IDE
 
 ---
 
-## Experience
+## ⌛Experience
 
 - **NSIC Technical Services Centre — Intern**  
 Circuit design, Simulation and Hardware testing.
@@ -41,7 +41,7 @@ Telecommunication, Data Networking
 
 ---
 
-## Projects
+## 🛠️Projects
 
 - **Long Duration Timer using Capacitor**  
 Developed a long duration timer using supercapacitor for extended timing capcacity.
@@ -51,7 +51,7 @@ Scheduled medication dispenser using ESP32, sensors and embedded logic.
 
 ---
 
-## Education
+## ✒️Education
 
 - **B.E. Electronics & Communication Engineering** — CGPA: 8.46  
   Saveetha Engineering College, Chennai  
