@@ -30,7 +30,7 @@ VS Code • Google Colab • MATLAB • TinkerCAD • Arduino IDE
 
 ## ⌛Experience
 
-- **NSIC Technical Services Centre — Intern**  
+- **NSIC Technical Services Centre - Intern**  
 Circuit design, Simulation and Hardware testing.
 
 - **Chennai Port Authority - Intern**  
@@ -53,10 +53,10 @@ Scheduled medication dispenser using ESP32, sensors and embedded logic.
 
 ## ✒️Education
 
-- **B.E. Electronics & Communication Engineering** — CGPA: 8.46  
+- **B.E. Electronics & Communication Engineering** - CGPA: 8.46  
   Saveetha Engineering College, Chennai  
 
-- **Higher Secondary (XII)** — 75%  
+- **Higher Secondary (XII)** - 75%  
   Smt NDJA Vivekananda Vidyalaya Senior Secondary School, Chennai
 
 ---
