@@ -46,14 +46,15 @@ Telecommunication, Data Networking
 - **Long Duration Timer using Capacitor**  
 Developed a long duration timer using supercapacitor for extended timing capcacity.
 
-- **Smart Pill Dispenser (ESP32)**  
-Scheduled medication dispenser using ESP32, sensors and embedded logic.
+- **Real Time Object Detection using Hardware Accelerated CNN**  
+Built an FPGA accelerated CNN inference system on a Xilinx Zynq SoC for real-time object detection, outperforming a CPU only implementation.
+
 
 ---
 
 ## ✒️Education
 
-- **B.E. Electronics & Communication Engineering** - CGPA: 8.46  
+- **B.E. Electronics & Communication Engineering** - CGPA: 8.45  
   Saveetha Engineering College, Chennai  
 
 - **Higher Secondary (XII)** - 75%  
